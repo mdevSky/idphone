@@ -1,0 +1,20 @@
+{
+  "name": "@mdevsky/idphone",
+  "version": "1.0.0",
+  "description": "Utilitas untuk mengecek provider dari nomor telepon.",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node tests/Provider.test.js"
+  },
+  "keywords": [
+    "math",
+    "oop",
+    "library"
+  ],
+  "author": "Mufni Anbiya",
+  "license": "MIT",
+  "dependencies": {
+    
+  }
+}
